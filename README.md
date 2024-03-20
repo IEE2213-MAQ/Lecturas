@@ -5,6 +5,8 @@ Lecturas del Curso
 
 [2. Electromagnetismo.pdf](https://github.com/IEE2213-MAQ/Lecturas/files/14558802/2.Electromagnetismo.pdf)
 
+[Complemento: Apuntes_EM_FRL.pdf](https://github.com/IEE2213-MAQ/Lecturas/files/14669052/Apuntes_EM_FRL.pdf)
+
 [3. Transformadores.pdf](https://github.com/IEE2213-MAQ/Lecturas/files/14558816/3.Transformadores.pdf)
 
 [4. Energía y conversión electromecánica.pdf](https://github.com/IEE2213-MAQ/Lecturas/files/14558833/4.Energia.y.conversion.electromecanica.pdf)
@@ -16,3 +18,6 @@ Lecturas del Curso
 [7. Máquina de Inducción.pdf](https://github.com/IEE2213-MAQ/Lecturas/files/14558847/7.Maquina.de.Induccion.pdf)
 
 [8. Máquina DC.pdf](https://github.com/IEE2213-MAQ/Lecturas/files/14558861/8.Maquina.DC.pdf)
+
+
+
